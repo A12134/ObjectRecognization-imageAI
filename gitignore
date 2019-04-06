@@ -1,0 +1,6 @@
+venv\
+*.avi
+*.jpg
+*.mp4
+imageNew.jpg-object\
+.idea\
